@@ -9,3 +9,9 @@ adding code example
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+creating task list
+here is the todos for today
+- [ ] create github pages
+- [ ] create template for website
+- [ ] deploy
